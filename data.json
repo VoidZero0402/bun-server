@@ -5,7 +5,7 @@
 			"name": "ChatGPT",
 			"company": "OpenAI",
 			"website": "https://chatgpt.com",
-			"logo": "chatgpt-logo.png",
+			"logo": "openai.svg",
 			"about": "ChatGPT is a large language model designed to understand and generate human-like text. It assists users with writing, coding, learning, problem solving, and decision making across a wide range of domains and everyday use cases.",
 			"capabilities": [
 				"Text Generation",
@@ -24,7 +24,7 @@
 			"name": "Gemini",
 			"company": "Google",
 			"website": "https://deepmind.google/technologies/gemini",
-			"logo": "gemini-logo.png",
+			"logo": "gemini.svg",
 			"about": "Gemini is a multimodal AI model developed by Google, built to understand text, images, and code. It focuses on reasoning, research assistance, productivity, and deep integration with Google’s ecosystem and developer tools.",
 			"capabilities": [
 				"Multimodal Understanding",
@@ -43,7 +43,7 @@
 			"name": "DeepSeek",
 			"company": "DeepSeek AI",
 			"website": "https://www.deepseek.com",
-			"logo": "deepseek-logo.png",
+			"logo": "deepseek.svg",
 			"about": "DeepSeek is an AI language model optimized for technical reasoning and software development tasks. It emphasizes efficient problem solving, code understanding, algorithm design, and assisting developers with complex engineering challenges.",
 			"capabilities": [
 				"Code Generation",
@@ -61,7 +61,7 @@
 			"name": "Claude",
 			"company": "Anthropic",
 			"website": "https://www.anthropic.com",
-			"logo": "claude-logo.png",
+			"logo": "claude.svg",
 			"about": "Claude is a safety-focused AI assistant created to be helpful, honest, and harmless. It excels at long-form reasoning, thoughtful dialogue, document analysis, and supporting users in complex reading, writing, and planning tasks.",
 			"capabilities": [
 				"Long Context Analysis",
@@ -79,7 +79,7 @@
 			"name": "Grok",
 			"company": "xAI",
 			"website": "https://x.ai",
-			"logo": "grok-logo.png",
+			"logo": "grok.svg",
 			"about": "Grok is an AI model designed for real-time understanding of information and trends. It focuses on reasoning, current events analysis, and delivering direct, insightful responses with a more conversational and expressive style.",
 			"capabilities": [
 				"Real-Time Knowledge",
@@ -97,7 +97,7 @@
 			"name": "Copilot",
 			"company": "Microsoft",
 			"website": "https://copilot.microsoft.com",
-			"logo": "copilot-logo.png",
+			"logo": "copilot.svg",
 			"about": "Copilot is an AI assistant integrated into Microsoft products to enhance productivity. It helps users write, code, analyze data, and automate tasks while seamlessly working across tools like Windows, Office, and developer environments.",
 			"capabilities": [
 				"Code Completion",
@@ -119,7 +119,7 @@
 			"updatedAt": "26 minutes",
 			"model": {
 				"name": "ChatGPT",
-				"logo": "chatgpt-logo.png"
+				"logo": "openai.svg"
 			}
 		},
 		{
@@ -128,7 +128,7 @@
 			"updatedAt": "2 hours",
 			"model": {
 				"name": "Gemini",
-				"logo": "gemini-logo.png"
+				"logo": "gemini.svg"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 			"updatedAt": "4 hours",
 			"model": {
 				"name": "DeepSeek",
-				"logo": "deepseek-logo.png"
+				"logo": "deepseek.svg"
 			}
 		},
 		{
@@ -146,7 +146,7 @@
 			"updatedAt": "8 hours",
 			"model": {
 				"name": "Claude",
-				"logo": "claude-logo.png"
+				"logo": "claude.svg"
 			}
 		},
 		{
@@ -155,7 +155,7 @@
 			"updatedAt": "Yesterday",
 			"model": {
 				"name": "Grok",
-				"logo": "grok-logo.png"
+				"logo": "grok.svg"
 			}
 		},
 		{
@@ -164,7 +164,7 @@
 			"updatedAt": "Yesterday",
 			"model": {
 				"name": "Copilot",
-				"logo": "copilot-logo.png"
+				"logo": "copilot.svg"
 			}
 		}
 	]

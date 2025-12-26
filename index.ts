@@ -1,8 +1,8 @@
 import data from './data.json';
 
 const server = Bun.serve({
-	port: 4000,
-	hostname: 'localhost',
+	port: 3000,
+	hostname: '0.0.0.0',
 	routes: {
 		'/api/models': {
 			GET: () => {
