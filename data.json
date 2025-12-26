@@ -1,0 +1,171 @@
+{
+	"models": [
+		{
+			"id": "3f4c9b6a-2e41-4f7a-9a9d-1c8d1a2f91e3",
+			"name": "ChatGPT",
+			"company": "OpenAI",
+			"website": "https://chatgpt.com",
+			"logo": "chatgpt-logo.png",
+			"about": "ChatGPT is a large language model designed to understand and generate human-like text. It assists users with writing, coding, learning, problem solving, and decision making across a wide range of domains and everyday use cases.",
+			"capabilities": [
+				"Text Generation",
+				"Code Assistance",
+				"Summarization",
+				"Translation",
+				"Question Answering",
+				"Creative Writing",
+				"Data Analysis",
+				"Debugging",
+				"Documentation Writing"
+			]
+		},
+		{
+			"id": "9a21c2d4-7b63-4a1e-b1a2-84c71e6f0a55",
+			"name": "Gemini",
+			"company": "Google",
+			"website": "https://deepmind.google/technologies/gemini",
+			"logo": "gemini-logo.png",
+			"about": "Gemini is a multimodal AI model developed by Google, built to understand text, images, and code. It focuses on reasoning, research assistance, productivity, and deep integration with Google’s ecosystem and developer tools.",
+			"capabilities": [
+				"Multimodal Understanding",
+				"Advanced Reasoning",
+				"Code Generation",
+				"Research Assistance",
+				"Text Summarization",
+				"Translation",
+				"Image Understanding",
+				"Productivity Support",
+				"API Integration"
+			]
+		},
+		{
+			"id": "c6b3a8d1-41e9-4f92-bf3e-77c9e52c6f21",
+			"name": "DeepSeek",
+			"company": "DeepSeek AI",
+			"website": "https://www.deepseek.com",
+			"logo": "deepseek-logo.png",
+			"about": "DeepSeek is an AI language model optimized for technical reasoning and software development tasks. It emphasizes efficient problem solving, code understanding, algorithm design, and assisting developers with complex engineering challenges.",
+			"capabilities": [
+				"Code Generation",
+				"Algorithm Design",
+				"Bug Fixing",
+				"Technical Reasoning",
+				"Math Problem Solving",
+				"API Design",
+				"Documentation",
+				"System Design Assistance"
+			]
+		},
+		{
+			"id": "5e8f4a7b-0c2d-4f1e-9d5b-2c71a9b8e144",
+			"name": "Claude",
+			"company": "Anthropic",
+			"website": "https://www.anthropic.com",
+			"logo": "claude-logo.png",
+			"about": "Claude is a safety-focused AI assistant created to be helpful, honest, and harmless. It excels at long-form reasoning, thoughtful dialogue, document analysis, and supporting users in complex reading, writing, and planning tasks.",
+			"capabilities": [
+				"Long Context Analysis",
+				"Conversational Reasoning",
+				"Summarization",
+				"Ethical AI Assistance",
+				"Writing Support",
+				"Document Review",
+				"Planning",
+				"Critical Thinking"
+			]
+		},
+		{
+			"id": "8d9a6e31-3c5a-4f6b-91f2-6a0c3e52f8aa",
+			"name": "Grok",
+			"company": "xAI",
+			"website": "https://x.ai",
+			"logo": "grok-logo.png",
+			"about": "Grok is an AI model designed for real-time understanding of information and trends. It focuses on reasoning, current events analysis, and delivering direct, insightful responses with a more conversational and expressive style.",
+			"capabilities": [
+				"Real-Time Knowledge",
+				"Trend Analysis",
+				"Conversational AI",
+				"Reasoning",
+				"Question Answering",
+				"Content Generation",
+				"Summarization",
+				"Insight Extraction"
+			]
+		},
+		{
+			"id": "1b2f9a44-6d73-4c91-9f8b-3e71d6a2f0c9",
+			"name": "Copilot",
+			"company": "Microsoft",
+			"website": "https://copilot.microsoft.com",
+			"logo": "copilot-logo.png",
+			"about": "Copilot is an AI assistant integrated into Microsoft products to enhance productivity. It helps users write, code, analyze data, and automate tasks while seamlessly working across tools like Windows, Office, and developer environments.",
+			"capabilities": [
+				"Code Completion",
+				"Productivity Assistance",
+				"Office Integration",
+				"Data Analysis",
+				"Task Automation",
+				"Documentation Writing",
+				"Debugging",
+				"AI Pair Programming",
+				"Workflow Optimization"
+			]
+		}
+	],
+	"activities": [
+		{
+			"id": "a1f4b8c2-7e91-4b2d-bf52-0c9f7a21c111",
+			"title": "Refactoring a Legacy Node.js Backend",
+			"updatedAt": "26 minutes",
+			"model": {
+				"name": "ChatGPT",
+				"logo": "chatgpt-logo.png"
+			}
+		},
+		{
+			"id": "b9c2d7a4-3f51-4a18-9a73-7e1a4f82d9aa",
+			"title": "Learning HTML & CSS",
+			"updatedAt": "2 hours",
+			"model": {
+				"name": "Gemini",
+				"logo": "gemini-logo.png"
+			}
+		},
+		{
+			"id": "c3e71a9d-54a2-4f8c-bb91-2d6a81e4f012",
+			"title": "Efficient REST API Architecture",
+			"updatedAt": "4 hours",
+			"model": {
+				"name": "DeepSeek",
+				"logo": "deepseek-logo.png"
+			}
+		},
+		{
+			"id": "d7a2c9f1-8b34-4e62-a19f-5c9b8e1a77e3",
+			"title": "Bun vs Nodejs HTTP Server",
+			"updatedAt": "8 hours",
+			"model": {
+				"name": "Claude",
+				"logo": "claude-logo.png"
+			}
+		},
+		{
+			"id": "e4b9f812-2d6a-4c91-8f5b-91a7d2c3e009",
+			"title": "Tracking Real-Time Tech Trends",
+			"updatedAt": "Yesterday",
+			"model": {
+				"name": "Grok",
+				"logo": "grok-logo.png"
+			}
+		},
+		{
+			"id": "f6a7d3c9-1b52-4e18-9d7f-84c3a1b92e55",
+			"title": "Generating Excel Reports",
+			"updatedAt": "Yesterday",
+			"model": {
+				"name": "Copilot",
+				"logo": "copilot-logo.png"
+			}
+		}
+	]
+}
